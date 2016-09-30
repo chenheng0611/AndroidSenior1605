@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/build/intermediates/res/merged/debug/menu/history.xml",
+        "source": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/menu/history.xml"
+    },
+    {
+        "merged": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/build/intermediates/res/merged/debug/menu/encode.xml",
+        "source": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/menu/encode.xml"
+    },
+    {
+        "merged": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/build/intermediates/res/merged/debug/menu/capture.xml",
+        "source": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/menu/capture.xml"
+    }
+]

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_app_bar"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.qianfeng.day2_coordinatorlayout.AppBarActivity">
+    <!-- AppBarLayout必须是协调者布局的直接子控件,否则失效 -->
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/appbar_layout">
+        <!-- layout_scrollFlags属性(AppBarLayout中控件特有的属性) -->
+        <!-- layout_scrollFlags属性必须设置在AppBarLayout的第一个子控件上 -->
+        <!--scroll 一起滚动-->
+        <!--enterAlways 进入时一直可见-->
+        <!--enterAlwaysCollapsed 进入时一直是收起来的效果 必须和minHeight一起使用-->
+        <!--exitUntilCollapsed 退出时会一直收起来-->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="#f0f"
+            android:text="Hello AppBarLayout!!!!"
+            android:minHeight="40dp"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed"
+            />
+            <!--app:layout_scrollFlags="scroll|enterAlways|enterAlwaysCollapsed"-->
+    </android.support.design.widget.AppBarLayout>
+    <!--要让AppBarLayout和滚动控件一起运动需要设置行为-->
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:text="hello"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:text="hello"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:text="hello"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:text="hello"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:text="hello"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:text="hello"/>
+        </LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
+</android.support.design.widget.CoordinatorLayout>

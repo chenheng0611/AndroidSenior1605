@@ -1,0 +1,2382 @@
+[
+    {
+        "outputFile": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 632,
+                        "endColumn": 50,
+                        "endOffset": 680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 54,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 683,
+                        "endColumn": 52,
+                        "endOffset": 733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 58,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 736,
+                        "endColumn": 56,
+                        "endOffset": 790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 71,
+                    "endOffset": 289
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 793,
+                        "endColumn": 69,
+                        "endOffset": 860
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 294,
+                    "endColumn": 65,
+                    "endOffset": 355
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 863,
+                        "endColumn": 63,
+                        "endOffset": 924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 360,
+                    "endColumn": 46,
+                    "endOffset": 402
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 927,
+                        "endColumn": 44,
+                        "endOffset": 969
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 407,
+                    "endColumn": 61,
+                    "endOffset": 464
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 972,
+                        "endColumn": 59,
+                        "endOffset": 1029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 469,
+                    "endColumn": 50,
+                    "endOffset": 515
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 2,
+                        "startOffset": 1032,
+                        "endColumn": 48,
+                        "endOffset": 1078
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 520,
+                    "endColumn": 79,
+                    "endOffset": 595
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 2,
+                        "startOffset": 1081,
+                        "endColumn": 77,
+                        "endOffset": 1156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 600,
+                    "endColumn": 53,
+                    "endOffset": 649
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 1159,
+                        "endColumn": 51,
+                        "endOffset": 1208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 654,
+                    "endColumn": 45,
+                    "endOffset": 695
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 2,
+                        "startOffset": 1211,
+                        "endColumn": 43,
+                        "endOffset": 1252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 700,
+                    "endColumn": 54,
+                    "endOffset": 750
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 2,
+                        "startOffset": 1255,
+                        "endColumn": 52,
+                        "endOffset": 1305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 755,
+                    "endColumn": 65,
+                    "endOffset": 816
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 2,
+                        "startOffset": 1308,
+                        "endColumn": 63,
+                        "endOffset": 1369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 821,
+                    "endColumn": 57,
+                    "endOffset": 874
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 2,
+                        "startOffset": 1372,
+                        "endColumn": 55,
+                        "endOffset": 1425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 879,
+                    "endColumn": 49,
+                    "endOffset": 924
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 2,
+                        "startOffset": 1428,
+                        "endColumn": 47,
+                        "endOffset": 1473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 929,
+                    "endColumn": 40,
+                    "endOffset": 965
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 2,
+                        "startOffset": 1476,
+                        "endColumn": 38,
+                        "endOffset": 1512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 970,
+                    "endColumn": 63,
+                    "endOffset": 1029
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 2,
+                        "startOffset": 1515,
+                        "endColumn": 61,
+                        "endOffset": 1574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1034,
+                    "endColumn": 66,
+                    "endOffset": 1096
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 2,
+                        "startOffset": 1577,
+                        "endColumn": 64,
+                        "endOffset": 1639
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1101,
+                    "endColumn": 75,
+                    "endOffset": 1172
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 2,
+                        "startOffset": 1642,
+                        "endColumn": 73,
+                        "endOffset": 1713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1177,
+                    "endColumn": 54,
+                    "endOffset": 1227
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 2,
+                        "startOffset": 1716,
+                        "endColumn": 52,
+                        "endOffset": 1766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1232,
+                    "endColumn": 58,
+                    "endOffset": 1286
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 2,
+                        "startOffset": 1769,
+                        "endColumn": 56,
+                        "endOffset": 1823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1291,
+                    "endColumn": 70,
+                    "endOffset": 1357
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 2,
+                        "startOffset": 1826,
+                        "endColumn": 68,
+                        "endOffset": 1892
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1362,
+                    "endColumn": 65,
+                    "endOffset": 1423
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 2,
+                        "startOffset": 1895,
+                        "endColumn": 63,
+                        "endOffset": 1956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1428,
+                    "endColumn": 72,
+                    "endOffset": 1496
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 2,
+                        "startOffset": 1959,
+                        "endColumn": 70,
+                        "endOffset": 2027
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1501,
+                    "endColumn": 57,
+                    "endOffset": 1554
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 2,
+                        "startOffset": 2030,
+                        "endColumn": 55,
+                        "endOffset": 2083
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1559,
+                    "endColumn": 59,
+                    "endOffset": 1614
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 2,
+                        "startOffset": 2086,
+                        "endColumn": 57,
+                        "endOffset": 2141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1619,
+                    "endColumn": 49,
+                    "endOffset": 1664
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 2,
+                        "startOffset": 2144,
+                        "endColumn": 47,
+                        "endOffset": 2189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1669,
+                    "endColumn": 61,
+                    "endOffset": 1726
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 2,
+                        "startOffset": 2192,
+                        "endColumn": 59,
+                        "endOffset": 2249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1731,
+                    "endColumn": 55,
+                    "endOffset": 1782
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 2,
+                        "startOffset": 2252,
+                        "endColumn": 53,
+                        "endOffset": 2303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1787,
+                    "endColumn": 67,
+                    "endOffset": 1850
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 2,
+                        "startOffset": 2306,
+                        "endColumn": 65,
+                        "endOffset": 2369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1855,
+                    "endColumn": 61,
+                    "endOffset": 1912
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 2,
+                        "startOffset": 2372,
+                        "endColumn": 59,
+                        "endOffset": 2429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1917,
+                    "endColumn": 69,
+                    "endOffset": 1982
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 2,
+                        "startOffset": 2432,
+                        "endColumn": 67,
+                        "endOffset": 2497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1987,
+                    "endColumn": 61,
+                    "endOffset": 2044
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 2,
+                        "startOffset": 2500,
+                        "endColumn": 59,
+                        "endOffset": 2557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2049,
+                    "endColumn": 53,
+                    "endOffset": 2098
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 2,
+                        "startOffset": 2560,
+                        "endColumn": 51,
+                        "endOffset": 2609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2103,
+                    "endColumn": 55,
+                    "endOffset": 2154
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 2,
+                        "startOffset": 2612,
+                        "endColumn": 53,
+                        "endOffset": 2663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2159,
+                    "endColumn": 65,
+                    "endOffset": 2220
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 2,
+                        "startOffset": 2666,
+                        "endColumn": 63,
+                        "endOffset": 2727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2225,
+                    "endColumn": 63,
+                    "endOffset": 2284
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 2,
+                        "startOffset": 2730,
+                        "endColumn": 61,
+                        "endOffset": 2789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2289,
+                    "endColumn": 76,
+                    "endOffset": 2361
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 2,
+                        "startOffset": 2792,
+                        "endColumn": 74,
+                        "endOffset": 2864
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2366,
+                    "endColumn": 47,
+                    "endOffset": 2409
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 2,
+                        "startOffset": 2867,
+                        "endColumn": 45,
+                        "endOffset": 2910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2414,
+                    "endColumn": 87,
+                    "endOffset": 2497
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 2,
+                        "startOffset": 2913,
+                        "endColumn": 85,
+                        "endOffset": 2996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2502,
+                    "endColumn": 57,
+                    "endOffset": 2555
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 2,
+                        "startOffset": 2999,
+                        "endColumn": 55,
+                        "endOffset": 3052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2560,
+                    "endColumn": 51,
+                    "endOffset": 2607
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 2,
+                        "startOffset": 3055,
+                        "endColumn": 49,
+                        "endOffset": 3102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2612,
+                    "endColumn": 58,
+                    "endOffset": 2666
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 2,
+                        "startOffset": 3105,
+                        "endColumn": 56,
+                        "endOffset": 3159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2671,
+                    "endColumn": 56,
+                    "endOffset": 2723
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 2,
+                        "startOffset": 3162,
+                        "endColumn": 54,
+                        "endOffset": 3214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2728,
+                    "endColumn": 43,
+                    "endOffset": 2767
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 2,
+                        "startOffset": 3217,
+                        "endColumn": 41,
+                        "endOffset": 3256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2772,
+                    "endColumn": 50,
+                    "endOffset": 2818
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 2,
+                        "startOffset": 3259,
+                        "endColumn": 48,
+                        "endOffset": 3305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2823,
+                    "endColumn": 52,
+                    "endOffset": 2871
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 2,
+                        "startOffset": 3308,
+                        "endColumn": 50,
+                        "endOffset": 3356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2876,
+                    "endColumn": 48,
+                    "endOffset": 2920
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 2,
+                        "startOffset": 3359,
+                        "endColumn": 46,
+                        "endOffset": 3403
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2925,
+                    "endColumn": 97,
+                    "endOffset": 3018
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 2,
+                        "startOffset": 3406,
+                        "endColumn": 95,
+                        "endOffset": 3499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3023,
+                    "endColumn": 149,
+                    "endOffset": 3168
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 2,
+                        "startOffset": 3502,
+                        "endColumn": 147,
+                        "endOffset": 3647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3173,
+                    "endColumn": 54,
+                    "endOffset": 3223
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 2,
+                        "startOffset": 3650,
+                        "endColumn": 52,
+                        "endOffset": 3700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3228,
+                    "endColumn": 53,
+                    "endOffset": 3277
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 2,
+                        "startOffset": 3703,
+                        "endColumn": 51,
+                        "endOffset": 3752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3282,
+                    "endColumn": 55,
+                    "endOffset": 3333
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 2,
+                        "startOffset": 3755,
+                        "endColumn": 53,
+                        "endOffset": 3806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3338,
+                    "endColumn": 100,
+                    "endOffset": 3434
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 2,
+                        "startOffset": 3809,
+                        "endColumn": 98,
+                        "endOffset": 3905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3439,
+                    "endColumn": 50,
+                    "endOffset": 3485
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 2,
+                        "startOffset": 3908,
+                        "endColumn": 48,
+                        "endOffset": 3954
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3490,
+                    "endColumn": 49,
+                    "endOffset": 3535
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 2,
+                        "startOffset": 3957,
+                        "endColumn": 47,
+                        "endOffset": 4002
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3540,
+                    "endColumn": 132,
+                    "endOffset": 3668
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 2,
+                        "startOffset": 4005,
+                        "endColumn": 130,
+                        "endOffset": 4133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3673,
+                    "endColumn": 58,
+                    "endOffset": 3727
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 2,
+                        "startOffset": 4136,
+                        "endColumn": 56,
+                        "endOffset": 4190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 3732,
+                    "endColumn": 68,
+                    "endOffset": 3796
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 2,
+                        "startOffset": 4193,
+                        "endColumn": 66,
+                        "endOffset": 4257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 3801,
+                    "endColumn": 89,
+                    "endOffset": 3886
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 2,
+                        "startOffset": 4260,
+                        "endColumn": 87,
+                        "endOffset": 4345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3891,
+                    "endColumn": 200,
+                    "endOffset": 4087
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 2,
+                        "startOffset": 4348,
+                        "endColumn": 198,
+                        "endOffset": 4544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 4092,
+                    "endColumn": 153,
+                    "endOffset": 4241
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 2,
+                        "startOffset": 4547,
+                        "endColumn": 151,
+                        "endOffset": 4696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 4246,
+                    "endColumn": 53,
+                    "endOffset": 4295
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 2,
+                        "startOffset": 4699,
+                        "endColumn": 51,
+                        "endOffset": 4748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4300,
+                    "endColumn": 95,
+                    "endOffset": 4391
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 2,
+                        "startOffset": 4751,
+                        "endColumn": 93,
+                        "endOffset": 4842
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4396,
+                    "endColumn": 88,
+                    "endOffset": 4480
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 2,
+                        "startOffset": 4845,
+                        "endColumn": 86,
+                        "endOffset": 4929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4485,
+                    "endColumn": 74,
+                    "endOffset": 4555
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 2,
+                        "startOffset": 4932,
+                        "endColumn": 72,
+                        "endOffset": 5002
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 4560,
+                    "endColumn": 47,
+                    "endOffset": 4603
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 2,
+                        "startOffset": 5005,
+                        "endColumn": 45,
+                        "endOffset": 5048
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 4608,
+                    "endColumn": 54,
+                    "endOffset": 4658
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 2,
+                        "startOffset": 5051,
+                        "endColumn": 52,
+                        "endOffset": 5101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 4663,
+                    "endColumn": 73,
+                    "endOffset": 4732
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 2,
+                        "startOffset": 5104,
+                        "endColumn": 71,
+                        "endOffset": 5173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 4737,
+                    "endColumn": 77,
+                    "endOffset": 4810
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 2,
+                        "startOffset": 5176,
+                        "endColumn": 75,
+                        "endOffset": 5249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 4815,
+                    "endColumn": 68,
+                    "endOffset": 4879
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 2,
+                        "startOffset": 5252,
+                        "endColumn": 66,
+                        "endOffset": 5316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 4884,
+                    "endColumn": 141,
+                    "endOffset": 5021
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 2,
+                        "startOffset": 5319,
+                        "endColumn": 139,
+                        "endOffset": 5456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 5026,
+                    "endColumn": 99,
+                    "endOffset": 5121
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 2,
+                        "startOffset": 5459,
+                        "endColumn": 97,
+                        "endOffset": 5554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 5126,
+                    "endColumn": 85,
+                    "endOffset": 5207
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 2,
+                        "startOffset": 5557,
+                        "endColumn": 83,
+                        "endOffset": 5638
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 5212,
+                    "endColumn": 51,
+                    "endOffset": 5259
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 2,
+                        "startOffset": 5641,
+                        "endColumn": 49,
+                        "endOffset": 5688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 5264,
+                    "endColumn": 86,
+                    "endOffset": 5346
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 2,
+                        "startOffset": 5691,
+                        "endColumn": 84,
+                        "endOffset": 5773
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 5351,
+                    "endColumn": 98,
+                    "endOffset": 5445
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 2,
+                        "startOffset": 5776,
+                        "endColumn": 96,
+                        "endOffset": 5870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 5450,
+                    "endColumn": 77,
+                    "endOffset": 5523
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 2,
+                        "startOffset": 5873,
+                        "endColumn": 75,
+                        "endOffset": 5946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 5528,
+                    "endColumn": 103,
+                    "endOffset": 5627
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 2,
+                        "startOffset": 5949,
+                        "endColumn": 101,
+                        "endOffset": 6048
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 5632,
+                    "endColumn": 69,
+                    "endOffset": 5697
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 2,
+                        "startOffset": 6051,
+                        "endColumn": 67,
+                        "endOffset": 6116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 5702,
+                    "endColumn": 99,
+                    "endOffset": 5797
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 2,
+                        "startOffset": 6119,
+                        "endColumn": 97,
+                        "endOffset": 6214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 5802,
+                    "endColumn": 142,
+                    "endOffset": 5940
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 2,
+                        "startOffset": 6217,
+                        "endColumn": 140,
+                        "endOffset": 6355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 5945,
+                    "endColumn": 97,
+                    "endOffset": 6038
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 2,
+                        "startOffset": 6358,
+                        "endColumn": 95,
+                        "endOffset": 6451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 6043,
+                    "endColumn": 75,
+                    "endOffset": 6114
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 2,
+                        "startOffset": 6454,
+                        "endColumn": 73,
+                        "endOffset": 6525
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 6119,
+                    "endColumn": 76,
+                    "endOffset": 6191
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 2,
+                        "startOffset": 6528,
+                        "endColumn": 74,
+                        "endOffset": 6600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 6196,
+                    "endColumn": 64,
+                    "endOffset": 6256
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 2,
+                        "startOffset": 6603,
+                        "endColumn": 62,
+                        "endOffset": 6663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 6261,
+                    "endColumn": 116,
+                    "endOffset": 6373
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 2,
+                        "startOffset": 6666,
+                        "endColumn": 114,
+                        "endOffset": 6778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 6378,
+                    "endColumn": 108,
+                    "endOffset": 6482
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 2,
+                        "startOffset": 6781,
+                        "endColumn": 106,
+                        "endOffset": 6885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 6487,
+                    "endColumn": 87,
+                    "endOffset": 6570
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 2,
+                        "startOffset": 6888,
+                        "endColumn": 85,
+                        "endOffset": 6971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 6575,
+                    "endColumn": 80,
+                    "endOffset": 6651
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 2,
+                        "startOffset": 6974,
+                        "endColumn": 78,
+                        "endOffset": 7050
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 6656,
+                    "endColumn": 67,
+                    "endOffset": 6719
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 2,
+                        "startOffset": 7053,
+                        "endColumn": 65,
+                        "endOffset": 7116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 6724,
+                    "endColumn": 63,
+                    "endOffset": 6783
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 2,
+                        "startOffset": 7119,
+                        "endColumn": 61,
+                        "endOffset": 7178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 6788,
+                    "endColumn": 60,
+                    "endOffset": 6844
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 2,
+                        "startOffset": 7181,
+                        "endColumn": 58,
+                        "endOffset": 7237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 6849,
+                    "endColumn": 175,
+                    "endOffset": 7020
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 2,
+                        "startOffset": 7240,
+                        "endColumn": 173,
+                        "endOffset": 7411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 7025,
+                    "endColumn": 76,
+                    "endOffset": 7097
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 2,
+                        "startOffset": 7414,
+                        "endColumn": 74,
+                        "endOffset": 7486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 7102,
+                    "endColumn": 71,
+                    "endOffset": 7169
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 2,
+                        "startOffset": 7489,
+                        "endColumn": 69,
+                        "endOffset": 7556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 7174,
+                    "endColumn": 153,
+                    "endOffset": 7323
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 2,
+                        "startOffset": 7559,
+                        "endColumn": 151,
+                        "endOffset": 7708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 7328,
+                    "endColumn": 74,
+                    "endOffset": 7398
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 2,
+                        "startOffset": 7711,
+                        "endColumn": 72,
+                        "endOffset": 7781
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 7403,
+                    "endColumn": 55,
+                    "endOffset": 7454
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 2,
+                        "startOffset": 7784,
+                        "endColumn": 53,
+                        "endOffset": 7835
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 7459,
+                    "endColumn": 62,
+                    "endOffset": 7517
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 2,
+                        "startOffset": 7838,
+                        "endColumn": 60,
+                        "endOffset": 7896
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 7522,
+                    "endColumn": 134,
+                    "endOffset": 7652
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 2,
+                        "startOffset": 7899,
+                        "endColumn": 132,
+                        "endOffset": 8029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 7657,
+                    "endColumn": 84,
+                    "endOffset": 7737
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 2,
+                        "startOffset": 8032,
+                        "endColumn": 82,
+                        "endOffset": 8112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 7742,
+                    "endColumn": 76,
+                    "endOffset": 7814
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 2,
+                        "startOffset": 8115,
+                        "endColumn": 74,
+                        "endOffset": 8187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 7819,
+                    "endColumn": 112,
+                    "endOffset": 7927
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 2,
+                        "startOffset": 8190,
+                        "endColumn": 110,
+                        "endOffset": 8298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 7932,
+                    "endColumn": 65,
+                    "endOffset": 7993
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 2,
+                        "startOffset": 8301,
+                        "endColumn": 63,
+                        "endOffset": 8362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 7998,
+                    "endColumn": 134,
+                    "endOffset": 8128
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 2,
+                        "startOffset": 8365,
+                        "endColumn": 132,
+                        "endOffset": 8495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 8133,
+                    "endColumn": 84,
+                    "endOffset": 8213
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 2,
+                        "startOffset": 8498,
+                        "endColumn": 82,
+                        "endOffset": 8578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 8218,
+                    "endColumn": 73,
+                    "endOffset": 8287
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 2,
+                        "startOffset": 8581,
+                        "endColumn": 71,
+                        "endOffset": 8650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 8292,
+                    "endColumn": 100,
+                    "endOffset": 8388
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 2,
+                        "startOffset": 8653,
+                        "endColumn": 98,
+                        "endOffset": 8749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 8393,
+                    "endColumn": 60,
+                    "endOffset": 8449
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 2,
+                        "startOffset": 8752,
+                        "endColumn": 58,
+                        "endOffset": 8808
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 8454,
+                    "endColumn": 75,
+                    "endOffset": 8525
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 2,
+                        "startOffset": 8811,
+                        "endColumn": 73,
+                        "endOffset": 8882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 8530,
+                    "endColumn": 75,
+                    "endOffset": 8601
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 2,
+                        "startOffset": 8885,
+                        "endColumn": 73,
+                        "endOffset": 8956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 8606,
+                    "endColumn": 78,
+                    "endOffset": 8680
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 2,
+                        "startOffset": 8959,
+                        "endColumn": 76,
+                        "endOffset": 9033
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 8685,
+                    "endColumn": 74,
+                    "endOffset": 8755
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 2,
+                        "startOffset": 9036,
+                        "endColumn": 72,
+                        "endOffset": 9106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 8760,
+                    "endColumn": 56,
+                    "endOffset": 8812
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 2,
+                        "startOffset": 9109,
+                        "endColumn": 54,
+                        "endOffset": 9161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 8817,
+                    "endColumn": 61,
+                    "endOffset": 8874
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 2,
+                        "startOffset": 9164,
+                        "endColumn": 59,
+                        "endOffset": 9221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 8879,
+                    "endColumn": 62,
+                    "endOffset": 8937
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 2,
+                        "startOffset": 9224,
+                        "endColumn": 60,
+                        "endOffset": 9282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 8942,
+                    "endColumn": 68,
+                    "endOffset": 9006
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 2,
+                        "startOffset": 9285,
+                        "endColumn": 66,
+                        "endOffset": 9349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 9011,
+                    "endColumn": 64,
+                    "endOffset": 9071
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 2,
+                        "startOffset": 9352,
+                        "endColumn": 62,
+                        "endOffset": 9412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 9076,
+                    "endColumn": 53,
+                    "endOffset": 9125
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 2,
+                        "startOffset": 9415,
+                        "endColumn": 51,
+                        "endOffset": 9464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 9130,
+                    "endColumn": 69,
+                    "endOffset": 9195
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 2,
+                        "startOffset": 9467,
+                        "endColumn": 67,
+                        "endOffset": 9532
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 9200,
+                    "endColumn": 57,
+                    "endOffset": 9253
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 2,
+                        "startOffset": 9535,
+                        "endColumn": 55,
+                        "endOffset": 9588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 9258,
+                    "endColumn": 82,
+                    "endOffset": 9336
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 2,
+                        "startOffset": 9591,
+                        "endColumn": 80,
+                        "endOffset": 9669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 9341,
+                    "endColumn": 56,
+                    "endOffset": 9393
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 2,
+                        "startOffset": 9672,
+                        "endColumn": 54,
+                        "endOffset": 9724
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 9398,
+                    "endColumn": 48,
+                    "endOffset": 9442
+                },
+                "from": {
+                    "file": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/zxing_scan/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 2,
+                        "startOffset": 9727,
+                        "endColumn": 46,
+                        "endOffset": 9771
+                    }
+                }
+            }
+        ]
+    }
+]

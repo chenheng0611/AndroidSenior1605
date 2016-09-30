@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Day1_ButterKnife_Home</string>
+    <string name="gift">礼包</string>
+    <string name="open">开服</string>
+    <string name="hot">热门</string>
+    <string name="special">特色</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

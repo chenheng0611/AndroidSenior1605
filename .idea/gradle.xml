@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/day1_butterfork" />
+            <option value="$PROJECT_DIR$/day1_butterknife_home" />
+            <option value="$PROJECT_DIR$/day1_butterknifebase" />
+            <option value="$PROJECT_DIR$/day1_dowload" />
+            <option value="$PROJECT_DIR$/day1_get_post_okhttp" />
+            <option value="$PROJECT_DIR$/day1_retrofit_base" />
+            <option value="$PROJECT_DIR$/day1_retrofit_gson" />
+            <option value="$PROJECT_DIR$/day2_cardview" />
+            <option value="$PROJECT_DIR$/day2_coordinatorlayout" />
+            <option value="$PROJECT_DIR$/day2_recyclerview" />
+            <option value="$PROJECT_DIR$/day3_db_pack" />
+            <option value="$PROJECT_DIR$/day3_db_use" />
+            <option value="$PROJECT_DIR$/day3_greendao" />
+            <option value="$PROJECT_DIR$/day3_searchhistory" />
+            <option value="$PROJECT_DIR$/day4_jpush_demo" />
+            <option value="$PROJECT_DIR$/day4_sharedemo" />
+            <option value="$PROJECT_DIR$/day4_takepicture" />
+            <option value="$PROJECT_DIR$/day4_zxing" />
+            <option value="$PROJECT_DIR$/day5_mediaplayer_surfaceview" />
+            <option value="$PROJECT_DIR$/day5_recorder_player" />
+            <option value="$PROJECT_DIR$/day5_videoview" />
+            <option value="$PROJECT_DIR$/zxing_scan" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
