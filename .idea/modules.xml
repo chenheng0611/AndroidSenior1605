@@ -3,29 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidSenior1605.iml" filepath="$PROJECT_DIR$/AndroidSenior1605.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day1_butterfork/day1_butterfork.iml" filepath="$PROJECT_DIR$/day1_butterfork/day1_butterfork.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day1_butterknife_home/day1_butterknife_home.iml" filepath="$PROJECT_DIR$/day1_butterknife_home/day1_butterknife_home.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day1_butterknifebase/day1_butterknifebase.iml" filepath="$PROJECT_DIR$/day1_butterknifebase/day1_butterknifebase.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day1_dowload/day1_dowload.iml" filepath="$PROJECT_DIR$/day1_dowload/day1_dowload.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day1_get_post_okhttp/day1_get_post_okhttp.iml" filepath="$PROJECT_DIR$/day1_get_post_okhttp/day1_get_post_okhttp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day1_retrofit_base/day1_retrofit_base.iml" filepath="$PROJECT_DIR$/day1_retrofit_base/day1_retrofit_base.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day1_retrofit_gson/day1_retrofit_gson.iml" filepath="$PROJECT_DIR$/day1_retrofit_gson/day1_retrofit_gson.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day2_cardview/day2_cardview.iml" filepath="$PROJECT_DIR$/day2_cardview/day2_cardview.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day2_coordinatorlayout/day2_coordinatorlayout.iml" filepath="$PROJECT_DIR$/day2_coordinatorlayout/day2_coordinatorlayout.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day2_recyclerview/day2_recyclerview.iml" filepath="$PROJECT_DIR$/day2_recyclerview/day2_recyclerview.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day3_db_pack/day3_db_pack.iml" filepath="$PROJECT_DIR$/day3_db_pack/day3_db_pack.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day3_db_use/day3_db_use.iml" filepath="$PROJECT_DIR$/day3_db_use/day3_db_use.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day3_greendao/day3_greendao.iml" filepath="$PROJECT_DIR$/day3_greendao/day3_greendao.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day3_searchhistory/day3_searchhistory.iml" filepath="$PROJECT_DIR$/day3_searchhistory/day3_searchhistory.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day4_jpush_demo/day4_jpush_demo.iml" filepath="$PROJECT_DIR$/day4_jpush_demo/day4_jpush_demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day4_sharedemo/day4_sharedemo.iml" filepath="$PROJECT_DIR$/day4_sharedemo/day4_sharedemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day4_takepicture/day4_takepicture.iml" filepath="$PROJECT_DIR$/day4_takepicture/day4_takepicture.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day4_zxing/day4_zxing.iml" filepath="$PROJECT_DIR$/day4_zxing/day4_zxing.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day5_mediaplayer_surfaceview/day5_mediaplayer_surfaceview.iml" filepath="$PROJECT_DIR$/day5_mediaplayer_surfaceview/day5_mediaplayer_surfaceview.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day5_recorder_player/day5_recorder_player.iml" filepath="$PROJECT_DIR$/day5_recorder_player/day5_recorder_player.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day5_videoview/day5_videoview.iml" filepath="$PROJECT_DIR$/day5_videoview/day5_videoview.iml" />
-      <module fileurl="file://$PROJECT_DIR$/zxing_scan/zxing_scan.iml" filepath="$PROJECT_DIR$/zxing_scan/zxing_scan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day10_alipay/day10_alipay.iml" filepath="$PROJECT_DIR$/day10_alipay/day10_alipay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day10_mvp_review/day10_mvp_review.iml" filepath="$PROJECT_DIR$/day10_mvp_review/day10_mvp_review.iml" />
     </modules>
   </component>
 </project>

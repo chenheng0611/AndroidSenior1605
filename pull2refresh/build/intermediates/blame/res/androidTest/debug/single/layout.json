@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/pull2refresh/build/intermediates/res/merged/androidTest/debug/layout/pull_to_refresh_header_horizontal.xml",
+        "source": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/pull2refresh/build/intermediates/bundles/debug/res/layout/pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/pull2refresh/build/intermediates/res/merged/androidTest/debug/layout/pull_to_refresh_header_vertical_box.xml",
+        "source": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/pull2refresh/build/intermediates/bundles/debug/res/layout/pull_to_refresh_header_vertical_box.xml"
+    },
+    {
+        "merged": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/pull2refresh/build/intermediates/res/merged/androidTest/debug/layout/pull_to_refresh_header_vertical.xml",
+        "source": "/Users/xray/Documents/xray_mac/studio_code/AndroidSenior1605/pull2refresh/build/intermediates/bundles/debug/res/layout/pull_to_refresh_header_vertical.xml"
+    }
+]

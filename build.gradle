@@ -1,6 +1,7 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 
 buildscript {
+    //加载库的地址
     repositories {
         jcenter()
         mavenCentral()

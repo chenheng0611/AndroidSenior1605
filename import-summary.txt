@@ -7,19 +7,23 @@ The following files were *not* copied into the new Gradle project; you
 should evaluate whether these are still needed in your project and if
 so manually move them:
 
-* ant.properties
-* build.xml
+* .DS_Store
+* LICENSE
+* pom.xml
 
 Moved Files:
 ------------
 Android Gradle projects use a different directory structure than ADT
 Eclipse projects. Here's how the projects were restructured:
 
-* AndroidManifest.xml => zxing_scan/src/main/AndroidManifest.xml
-* assets/ => zxing_scan/src/main/assets/
-* proguard-android-optimize.txt => zxing_scan/proguard-android-optimize.txt
-* res/ => zxing_scan/src/main/res/
-* src/ => zxing_scan/src/main/java/
+* AndroidManifest.xml => pull2refresh/src/main/AndroidManifest.xml
+* res/ => pull2refresh/src/main/res/
+* src/ => pull2refresh/src/main/java/
+* src/.DS_Store => pull2refresh/src/main/resources/.DS_Store
+* src/com/.DS_Store => pull2refresh/src/main/resources/com/.DS_Store
+* src/com/handmark/.DS_Store => pull2refresh/src/main/resources/com/handmark/.DS_Store
+* src/com/handmark/pulltorefresh/.DS_Store => pull2refresh/src/main/resources/com/handmark/pulltorefresh/.DS_Store
+* src/com/handmark/pulltorefresh/library/.DS_Store => pull2refresh/src/main/resources/com/handmark/pulltorefresh/library/.DS_Store
 
 Next Steps:
 -----------

@@ -1,0 +1,77 @@
+//应用插件,默认是android应用程序
+apply plugin: 'com.android.application'
+//android应用有关的配置
+android {
+    //android SDK的版本
+    compileSdkVersion 23
+    //编译器的版本
+    buildToolsVersion "23.0.3"
+    //默认配置
+    defaultConfig {
+        //应用程序名
+        applicationId "com.qianfeng.day8_pack_apk"
+        //最小android版本号
+        minSdkVersion 19
+        //目标android版本号
+        targetSdkVersion 23
+        //程序版本号
+        versionCode 1
+        //版本名称
+        versionName "1.0"
+        //单元测试工具
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+    }
+    //生成版本类型
+    buildTypes {
+        //发布版
+        release {
+            //是否最小化,删除不用的资源和代码,为true将进行混淆
+            minifyEnabled true
+            //混淆文件的配置
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+        //debug
+        debug {
+            //是否最小化,删除不用的资源和代码
+            minifyEnabled false
+            //混淆文件的配置
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+        //develop
+        develop{
+            //是否最小化,删除不用的资源和代码
+            minifyEnabled false
+            //混淆文件的配置
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+
+        }
+    }
+    //定义不同的产品渠道
+    productFlavors{
+        xiaomi{
+            versionCode 10
+            versionName "10.0.1"
+            manifestPlaceholders = [APP_CHANNEL:"xiaomi"]
+        }
+        huawei{
+            versionCode 6
+            versionName "6.1.1"
+            manifestPlaceholders = [APP_CHANNEL:"huawei"]
+        }
+        _360{
+            versionCode 5
+            versionName "5.0.1"
+            manifestPlaceholders = [APP_CHANNEL:"_360"]
+        }
+    }
+}
+//添加应用的第三方库
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile 'com.android.support:appcompat-v7:23.4.0'
+    testCompile 'junit:junit:4.12'
+}

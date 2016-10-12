@@ -1,2 +1,5 @@
-include ':app', ':day1_butterknifebase', ':day1_butterknife_home', ':day1_butterfork', ':day1_get_post_okhttp', ':day1_dowload', ':day1_retrofit_base', ':day1_retrofit_gson', ':day2_cardview', ':day2_recyclerview', ':day2_coordinatorlayout', ':day3_db_use', ':day3_db_pack', ':day3_greendao', ':day3_searchhistory', ':day4_jpush_demo', ':day4_sharedemo', ':day4_zxing', ':day4_takepicture', ':day5_videoview', ':day5_mediaplayer_surfaceview', ':day5_recorder_player'
-include ':zxing_scan'
+//include ':app', ':day1_butterknifebase', ':day1_butterknife_home', ':day1_butterfork', ':day1_get_post_okhttp', ':day1_dowload', ':day1_retrofit_base', ':day1_retrofit_gson', ':day2_cardview', ':day2_recyclerview', ':day2_coordinatorlayout', ':day3_db_use', ':day3_db_pack', ':day3_greendao', ':day3_searchhistory', ':day4_jpush_demo', ':day4_sharedemo', ':day4_zxing', ':day4_takepicture', ':day5_videoview', ':day5_mediaplayer_surfaceview', ':day5_recorder_player'
+//include ':zxing_scan'
+//include ':pull2refresh', ':day6_pulltorefresh', ':day6_drawerlayout_viewpager', ':day6_dipatchevent', ':day7_obserber', ':day7_rxjava_base', ':day7_retrofit_rxjava_openserver', ':day7_mvp', ':day8_imdemo', ':day8_pack_apk', ':lib', ':day9_sensor_base'
+//include ':day9_sensor_base', ':day9_compass', ':day9_move_ball', ':day9_snake_game', ':day10_alipay'
+include ':day10_alipay', ':day10_mvp_review'
