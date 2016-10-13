@@ -2,6 +2,8 @@ package com.qianfeng.day4_zxing.utils;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
+import android.graphics.Canvas;
+import android.media.ThumbnailUtils;
 
 import com.google.zxing.BarcodeFormat;
 import com.google.zxing.BinaryBitmap;
@@ -14,6 +16,7 @@ import com.google.zxing.Result;
 import com.google.zxing.WriterException;
 import com.google.zxing.common.BitMatrix;
 import com.google.zxing.common.HybridBinarizer;
+import com.google.zxing.qrcode.decoder.ErrorCorrectionLevel;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -36,6 +39,7 @@ public class ZXingUtils {
         //添加参数
         Map hint = new HashMap();
         hint.put(EncodeHintType.CHARACTER_SET,"utf-8");
+        hint.put(EncodeHintType.ERROR_CORRECTION, ErrorCorrectionLevel.H);
         MultiFormatWriter writer = new MultiFormatWriter();
         //二维码编码
         try {
@@ -64,17 +68,39 @@ public class ZXingUtils {
     }
 
     /**
-     * 将二维码转换为文字
+     * 在二维码图片中插入logo
      * @param bitmap
-     * @param width
-     * @param height
+     * @param logo
      * @return
      */
-    public static String readContentFromQRCode(Bitmap bitmap,int width,int height){
+    public static Bitmap createBitmapWithLogo(Bitmap bitmap,Bitmap logo){
+        int width = bitmap.getWidth();
+        int height = bitmap.getHeight();
+        logo = ThumbnailUtils.extractThumbnail(logo,width * 1 / 5,height * 1 / 5,ThumbnailUtils.OPTIONS_RECYCLE_INPUT);
+        Bitmap combine = Bitmap.createBitmap(width,height, Bitmap.Config.ARGB_8888);
+        Canvas canvas = new Canvas(combine);
+        canvas.drawBitmap(bitmap,0,0,null);
+        canvas.drawBitmap(logo,(width - logo.getWidth()) / 2,(height - logo.getWidth()) / 2,null );
+        canvas.save(Canvas.ALL_SAVE_FLAG);
+        canvas.restore();
+        if(combine.isRecycled()){
+            combine.recycle();
+        }
+        return combine;
+    }
+
+    /**
+     * 将二维码转换为文字
+     * @param bitmap
+     * @return
+     */
+    public static String readContentFromQRCode(Bitmap bitmap){
 
 //        Bitmap —— int[] —— RGBLuminanceSource
 //        —— HybridBinarizer —— BinaryBitmap
         //将Bitmap的内容转换到一维数组
+        int width = bitmap.getWidth();
+        int height = bitmap.getHeight();
         int[] pixels = new int[width * height];
         bitmap.getPixels(pixels,0,width,0,0,width,height);
 
@@ -86,6 +112,7 @@ public class ZXingUtils {
         //解码二维码图片
         Map hint = new HashMap();
         hint.put(EncodeHintType.CHARACTER_SET,"utf-8");
+        hint.put(EncodeHintType.ERROR_CORRECTION, ErrorCorrectionLevel.H);
         try {
             Result decode = reader.decode(binaryBitmap, hint);
             return decode.getText();
